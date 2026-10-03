@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d14cb2cbb00dec4b82168b81",
+  "owner": "kcmgexnmk",
+  "repo": "page-40e4f126a4b590b6d379eaba",
+  "title": "BLUEDAIR",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "40e4f126a4b590b6d379eaba",
+      "a": "BLUEDAIR",
+      "b": "",
+      "entity": "BLUEDAIR",
+      "brand": "BLUEDAIR",
+      "separator": "",
+      "path": "index.html",
+      "hash": "a5ed2fdb9f151594bd8eb1e564ef87c49a49cf95328a043dd4566da08064752f",
+      "content": {
+        "keyword1": "BLUEDAIR",
+        "keyword2": "",
+        "primary_entity": "BLUEDAIR",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "BLUEDAIR提供稳定机场订阅与VPN网络加速服务，支持多端客户端下载，覆盖流媒体解锁、游戏加速与日常跨境访问。欢迎访问官网了解套餐并获取下载指引。",
+          "AI_DESCRIPTION": "BLUEDAIR提供稳定机场订阅与VPN网络加速服务，支持多端客户端下载，覆盖流媒体解锁、游戏加速与日常跨境访问。欢迎访问官网了解套餐并获取下载指引。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;background:#071824;color:#e8f4f8;font-size:16px;line-height:1.7;overflow-x:hidden}a{color:#22d3ee;text-decoration:none}header{background:#051018;padding:12px 16px}nav{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center;max-width:1100px;margin:0 auto}.brand{font-weight:700;font-size:1.3rem;color:#22d3ee}nav a{color:#b2ebf2;font-size:.95rem}main{max-width:1100px;margin:0 auto;padding:0 16px 48px}section{padding:36px 0;border-bottom:1px solid #123044}h1{font-size:1.85rem;color:#fff;margin-bottom:14px;line-height:1.3}h2{font-size:1.42rem;color:#67e8f9;margin-bottom:16px}h3{font-size:1.12rem;color:#a5f3fc;margin:14px 0 8px}p,li{color:#cfe8ef}p{margin-bottom:12px}.row{display:flex;flex-wrap:wrap;gap:20px;margin:16px 0}.col{flex:1 1 280px}.box{background:#0c2a3a;padding:18px;border-radius:8px;border-left:4px solid #22d3ee}.plans{display:flex;flex-wrap:wrap;gap:16px;justify-content:center}.plan{flex:1 1 240px;background:#0a2330;padding:22px 18px;border-radius:10px;border:1px solid #164e63;max-width:340px}.plan.featured{border:2px solid #22d3ee;background:#0d3144;position:relative}.badge{display:inline-block;background:#0891b2;color:#fff;font-size:12px;padding:2px 10px;border-radius:10px;margin-bottom:8px}.price{font-size:1.55rem;color:#22d3ee;font-weight:700;margin:6px 0}.annual{font-size:.9rem;color:#7dd3fc}.plan ul{list-style:none;margin-top:10px}.plan li{padding:6px 0 6px 16px;position:relative}.plan li:before{content:\"-\";position:absolute;left:0;color:#22d3ee}.cta{display:inline-block;margin-top:14px;background:#0e7490;color:#fff;padding:10px 18px;border-radius:6px}ol{padding-left:20px;margin:8px 0 12px}details{background:#0c2533;margin:10px 0;border-radius:6px;border:1px solid #155e75}summary{padding:14px 16px;color:#67e8f9;font-weight:600}details p{padding:0 16px 14px}footer{background:#051018;padding:28px 16px;text-align:center;font-size:.9rem;color:#8ab4c0}.friends a{margin:0 8px;display:inline-block}@media(max-width:700px){h1{font-size:1.5rem}.row,.plans{flex-direction:column}.plan{max-width:100%}nav{justify-content:center}section{padding:26px 0}}</style><header><nav><span class=\"brand\">BLUEDAIR</span><a href=\"#intro\">首页</a><a href=\"#plans\">套餐对比</a><a href=\"#scenarios\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#promo\">公告</a><a href=\"#friends\">友链</a></nav></header><main><section id=\"intro\"><h1>BLUEDAIR 高速VPN机场与网络加速服务</h1><p>BLUEDAIR 是面向个人与小团队的专业机场订阅平台，同时提供 VPN 梯子与多端加速能力。用户通过一次订阅即可在常用客户端中调用全球优化节点，完成流媒体解锁、游戏加速与稳定跨境访问。本页为 BLUEDAIR 官方网站介绍页，集中说明套餐差异、使用场景、操作步骤与客户端下载方向，方便你对照需求选择方案。</p><div class=\"row\"><div class=\"col box\"><h3>为什么选择机场订阅</h3><p>相较单一内置节点的加速器，机场模式把线路选择权交给用户。BLUEDAIR 将流量、设备数与线路类型拆成清晰档位，导入订阅后即可按延迟与用途切换节点，更适合长期使用。</p></div><div class=\"col box\"><h3>官网能帮你做什么</h3><p>在这里可以对比基础版、旗舰版与团队版，了解流量与设备上限，并按系统找到正版客户端获取方式。BLUEDAIR 只提供订阅服务，不捆绑来路不明的安装包。</p></div></div></section><section id=\"plans\"><h2>套餐对比：按流量、设备与线路选档</h2><p>以下为当前公开档位。旗舰版在流媒体原生解锁与 IPLC 游戏线路上更完整，适合大多数同时看视频和在线对战的用户；轻度浏览可选基础版，家庭或工作室可看团队版。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#guide\">查看导入步骤</a></article><article class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#download\">去客户端下载指引</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#faq\">阅读套餐问答</a></article></div></section><section id=\"scenarios\"><h2>使用场景</h2><div class=\"row\"><div class=\"col\"><h3>流媒体与音乐解锁</h3><p>旗舰版与团队版强调全节点原生流媒体能力，适合观看海外剧集、体育直播与高码率音乐。基础版覆盖常用站点的基础解锁。实际可用性会随平台策略变化，建议搭配客户端分流规则，仅对视频域名走代理。</p></div><div class=\"col box\"><h3>游戏与实时对战</h3><p>需要更低抖动时可优先使用带 IPLC 标识的游戏优化线路。旗舰版对此做了针对性维护，适合需要稳定延迟的在线竞技与语音开黑，避免把全部流量都打进拥挤的公共节点。</p></div></div><div class=\"row\"><div class=\"col box\"><h3>远程办公与资料访问</h3><p>视频会议、云文档、代码仓库与学术数据库往往需要持续在线。选择设备数足够的档位，把电脑、手机和平板纳入同一订阅，减少反复切换账号。</p></div><div class=\"col\"><h3>出行与多设备共享</h3><p>出差或出境时，手机热点加上笔记本同时在线很常见。基础版适合三台以内的轻度组合，家庭或小型工作室可直接对照团队版的 20 台上限与高带宽节点。</p></div></div></section><section id=\"guide\"><h2>操作说明</h2><p>BLUEDAIR 的使用路径很短：选定套餐、拿到订阅链接、在正版客户端里导入、测速后连接。下面按步骤说明，便于第一次接触机场订阅的用户对照。</p><h3>第一步：对照需求选套餐</h3><p>先估算每月视频与下载用量，以及会同时在线的设备数量。只看网页和偶尔视频，基础版通常够用；经常 4K 或打游戏，优先旗舰版；多人共用再看团队版。</p><h3>第二步：获取机场订阅</h3><p>完成档位确认后，在用户侧复制订阅地址（一般是 Clash / Sing-box 兼容链接）。请妥善保存，不要把完整订阅公开转发，以免流量被占用。</p><h3>第三步：安装客户端</h3><p>按系统到开发者或应用商店下载 Clash Meta、FlClash、Shadowrocket、Stash、Clash Meta for Android 等常见客户端。BLUEDAIR 官网不提供第三方打包安装文件。</p><h3>第四步：导入并连接</h3><ol><li>打开客户端的订阅或配置页面，粘贴链接并更新节点。</li><li>开启系统代理或 TUN 模式，按需设置分流（国内直连、国外代理）。</li><li>挑选延迟较低、类型匹配的节点，连接后访问目标站点验证。</li><li>若流媒体提示地区限制，切换至标注原生解锁的节点再试。</li></ol></section><section id=\"download\"><h2>客户端下载与平台指引</h2><p>BLUEDAIR 是机场订阅与加速服务，客户端请走各软件官方渠道，以确保更新与签名完整。以下为常见组合，具体名称以各项目发布页为准。</p><div class=\"row\"><div class=\"col box\"><h3>桌面端</h3><p>Windows 与 macOS 可使用 Clash 系图形客户端或命令行内核。导入订阅后建议开启规则模式，避免所有流量绕行导致本地网站变慢。</p></div><div class=\"col box\"><h3>移动端</h3><p>iOS 常用 Shadowrocket、Stash 等（通常需要外区商店）。Android 可选用 Clash Meta for Android 或同类开源应用。请只从应用商店或项目仓库安装。</p></div></div><p>路由器与 NAS 用户可将订阅导入 OpenWrt 等环境，把加速下沉到网关，手机电脑即可免装客户端。团队版对多设备同时在线更友好。所有官方下载相关说明以本页「操作说明」与各客户端文档为准。</p><p><a class=\"cta\" href=\"#plans\">返回套餐对比</a> <a class=\"cta\" href=\"#faq\">查看下载安全问答</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>BLUEDAIR 机场和普通 VPN 加速器有什么区别？</summary><p>BLUEDAIR 采用订阅制机场模式：一份链接可在多款客户端使用，节点数量与线路类型更丰富，并按月流量与设备数计费。普通加速器往往把节点锁在单一 App 内。若你需要自己选节点、做分流和多端复用，机场订阅通常更灵活。</p></details><details><summary>如何完成客户端下载并把订阅导入进去？</summary><p>先在套餐说明中确认档位，复制订阅地址，再到本页「客户端下载」按系统选择 Clash、Shadowrocket 等正版软件。打开软件的订阅栏粘贴链接、更新节点，选择延迟合适的线路连接即可。本站为静态介绍，不通过表单收集账号。</p></details><details><summary>三个套餐该怎么选？年付划算吗？</summary><p>轻度使用选基础版（100GB / 3 台）。日常视频加游戏选旗舰版（300GB / 5 台，含原生流媒体与 IPLC）。家庭或工作室选团队版。页面标示的年付价格低于月付累计，适合确定会长用的用户；流量一般按周期重置，请以购买时条款为准。</p></details><details><summary>支持哪些设备？同时在线如何计算？</summary><p>电脑、手机、平板和部分路由器均可导入同一订阅。同时在线台数按套餐上限统计，超出后可能无法新开连接。把不常用设备的客户端退出登录或关闭代理，可把名额留给正在使用的终端。</p></details><details><summary>流媒体解锁和游戏加速是否保证？</summary><p>旗舰版与团队版维护全节点原生流媒体解锁，并提供 IPLC 游戏向线路；基础版为普通节点与基础解锁。平台风控会变化，效果不能写成绝对保证。遇到提示地区不符时，更换解锁节点或稍后再试通常有效。</p></details><details><summary>官网下载安全吗？会不会安装来路不明的软件？</summary><p>BLUEDAIR 官方网站只介绍订阅与使用方法，不捆绑第三方安装包。请从 Clash 等项目的发布渠道或正规应用商店获取客户端，核对比校验与开发者签名。不要相信声称“一键破解”的来源。</p></details></section><section id=\"promo\"><h2>公告与展示位</h2><p>此处用于 BLUEDAIR 官方公告与合规推广信息，例如线路维护窗口、客户端兼容说明或合作内容推荐。我们不投放诱导下载、不明加速器或需提交敏感信息的外部表单。如需互换友链，请通过站内公示渠道联系。</p></section><section id=\"friends\"><h2>友情链接</h2><p class=\"friends\"><a href=\"#\">开源客户端文档</a><a href=\"#\">分流规则入门</a><a href=\"#\">路由器订阅指南</a><a href=\"#\">流媒体区域说明</a><a href=\"#\">网络安全基础</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>© BLUEDAIR 官方网站</p><p><a href=\"#intro\">回到顶部</a> · <a href=\"#\">站点地图</a> · 官方下载指引见本页客户端章节</p></footer>",
+          "hash": "9846c5ac7a4bedd5f7ea1687c01251f766e6fb06f6549379019ad5067581d40d",
+          "seo": {
+            "title": "BLUEDAIR官网 - VPN梯子网络加速机场订阅与客户端下载",
+            "keywords": "BLUEDAIR,BLUEDAIR机场,BLUEDAIR VPN,机场订阅,VPN客户端下载,网络加速,梯子,加速器,官网下载,官方网站",
+            "description": "BLUEDAIR提供稳定机场订阅与VPN网络加速服务，支持多端客户端下载，覆盖流媒体解锁、游戏加速与日常跨境访问。欢迎访问官网了解套餐并获取下载指引。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hswlhma.cn",
+    "host": "p-1eed0e5a94.hswlhma.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "hswlhma.cn",
+      "url": "https://hswlhma.cn/",
+      "label": "番茄",
+      "apex": "hswlhma.cn",
+      "kind": null,
+      "identity": "ctukukdef/page-df4825c1e9ec33b81b680ff9"
+    },
+    {
+      "host": "agdveeq.cn",
+      "url": "https://agdveeq.cn/",
+      "label": "BLUEDAIR",
+      "apex": "agdveeq.cn",
+      "kind": null,
+      "identity": "g5gxus/page-e6ec7723783ca9e4b0b439b5"
+    },
+    {
+      "host": "k8l0mg.cn",
+      "url": "https://k8l0mg.cn/",
+      "label": "BLUEDAIR",
+      "apex": "k8l0mg.cn",
+      "kind": null,
+      "identity": "pvrfktq/page-234203341d6a808d9b2c70de"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "7858273da892a0b7e8ed234516b5363595282de660291c1eda0785a06f8950df",
+    "sitemap.xml": "cd12e99271853d09b34737c11d4ff6ba3faacd687dc014d91d7bf38f7f4ddb1b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "24fb2a5665ebc060d8aa0195b559bfce8858d5395649e4e69ecb89a9f09def8d",
+    "robots.txt": "569b500d7928bfcdcbd3801638e23c6f1ddd9ee211bd19f46e67832c71a042a9",
+    "d04a5784dad478efceede4efeee2d657.txt": "3059016ad6dd8fec599876c24aaf3383697c797f4c6e008701373620e58f4e06"
+  },
+  "revision": "7efd1997bdc969608dfc2a8ee277b7c8e4404084b65094b8489b0ae00b87512e"
+}
